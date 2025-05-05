@@ -1,0 +1,11 @@
+ticket_id,summary,description,resolution,assignedgroup,priority,status,date
+TICKET-10001,Email service down,Unable to send emails from Outlook,Restart mail server,BI-Testserver,High,closed,2025-04-10
+TICKET-10002,VPN not working,VPN disconnects frequently,Reset VPN profile,EM Tools,Low,closed,2025-04-11
+TICKET-10003,Printer offline,Printer is not showing up on the network,Reinstall printer drivers,PM CSS,High,closed,2025-04-12
+TICKET-10004,Slow internet,Internet speed is much slower than usual,Reset modem and router,Skynet,Medium,closed,2025-04-13
+TICKET-10005,Software crash,Application crashes when opening files,Reinstall software,PT BY,Low,pending,2025-04-14
+TICKET-10006,File access denied,Can't open shared files on the network drive,Check permissions and restart,HR CG,Low,resolved,2025-04-15
+TICKET-10007,Windows update stuck,Update is stuck at 99% on Windows 10,Force restart and update,BI_Analytics,High,assigned,2025-04-16
+TICKET-10008,Wi-Fi disconnecting,Wi-Fi keeps disconnecting intermittently,Reconfigure Wi-Fi settings,Business Service,Medium,closed,2025-04-17
+TICKET-10009,Email sync issue,Emails are not syncing with mobile device,Reconfigure email account,AS KA CG,Low,closed,2025-04-18
+TICKET-10010,External monitor not working,External monitor not displaying anything,Check cable connections and restart,PM CS,Low,resolved,2025-04-19
